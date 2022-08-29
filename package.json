@@ -1,0 +1,14 @@
+{
+  "name": "dysnomia",
+  "version": "1.0.0",
+  "description": "Hub TV pour raspberry pi",
+  "main": "main.js",
+  "author": "Maxime Letemple",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.1.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
